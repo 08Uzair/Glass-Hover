@@ -1,0 +1,5 @@
+ <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<i class='bx bxs-rocket icon'></i>
+<i class='bx bx-code-alt icon'></i>
+<i class='bx bxl-bitcoin icon'></i>
+<i class='bx bx-edit icon'></i>
